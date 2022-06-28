@@ -1,0 +1,61 @@
+
+
+body {
+    background-color: Moccasin;
+    font-family: verdana;
+    max-width: 600px;
+    margin: 0 auto !important;
+    float: none !important;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+h1 {
+    font-size: 170%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+h3 {
+    font-size: 130%;
+    font-weight: lighter;
+}
+
+q {
+    color: gray;
+    font-size: 80%;
+    font-style: italic;
+}
+
+.essay {
+    text-align: left;
+}
+
+a:link {
+    color: blue;
+}
+a:visited {
+    color: darkslateblue;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: white;
+}
+
+a.nav:link {
+    color: black;
+}
+a.nav:visited {
+    color: black;
+}
+a.nav:hover {
+    text-decoration-thickness: 13%;
+}
+a.nav:active {
+}
